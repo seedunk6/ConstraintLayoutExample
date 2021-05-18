@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ConstraintLayoutExample</string>
+    <string name="title">Lorem Ipsum</string>
+    <string name="content">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sit amet arcu vulputate nisi molestie pharetra vitae ullamcorper leo. Pellentesque at arcu orci. In congue dui vitae ipsum sodales, nec accumsan ex elementum. Vivamus nec est molestie, aliquam lacus rhoncus, pellentesque justo. Duis vitae sem et nulla interdum vestibulum ac eu augue.</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+</resources>
